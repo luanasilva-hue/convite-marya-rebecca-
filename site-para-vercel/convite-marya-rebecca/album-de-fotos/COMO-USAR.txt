@@ -1,0 +1,9 @@
+Coloque aqui as fotos do álbum "Nós duas".
+
+Nomeie as fotos em sequência, sem pular números:
+foto-1.jpg, foto-2.jpg, foto-3.jpg, ...
+
+Também funciona com .jpeg, .png e .webp.
+Dica: fotos em pé (retrato) ficam melhores. Antes de enviar, reduza cada foto para cerca de 1200 pixels no lado maior, para o convite abrir rápido.
+
+Esta pasta deve ficar ao lado do index.html no GitHub, para a Vercel publicar as duas coisas juntas.
